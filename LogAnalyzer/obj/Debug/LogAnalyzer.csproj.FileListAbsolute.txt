@@ -1,1 +1,8 @@
 D:\Programming\VSProjects\ArtOfUnitTestingStudy\LogAnalyzer\bin\Debug\LogAnalyzer.exe.config
+D:\Programming\VSProjects\ArtOfUnitTestingStudy\LogAnalyzer\bin\Debug\LogAnalyzer.exe
+D:\Programming\VSProjects\ArtOfUnitTestingStudy\LogAnalyzer\bin\Debug\LogAnalyzer.pdb
+D:\Programming\VSProjects\ArtOfUnitTestingStudy\LogAnalyzer\bin\Debug\nunit.framework.dll
+D:\Programming\VSProjects\ArtOfUnitTestingStudy\LogAnalyzer\bin\Debug\nunit.framework.xml
+D:\Programming\VSProjects\ArtOfUnitTestingStudy\LogAnalyzer\obj\Debug\LogAnalyzer.csprojResolveAssemblyReference.cache
+D:\Programming\VSProjects\ArtOfUnitTestingStudy\LogAnalyzer\obj\Debug\LogAnalyzer.exe
+D:\Programming\VSProjects\ArtOfUnitTestingStudy\LogAnalyzer\obj\Debug\LogAnalyzer.pdb
